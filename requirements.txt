@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+fsspec
+jupyter
+huggingface_hub
+tiktoken
+matplotlib
+seaborn

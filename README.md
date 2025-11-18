@@ -26,7 +26,6 @@ Notas de ambiente (Windows):
 - Quantização com `bitsandbytes` e algumas rotinas de fine-tuning de LLMs podem exigir Linux/WSL e drivers CUDA compatíveis.
 - Caso encontre limitações no Windows, considere executar via WSL2/Ubuntu ou um ambiente em nuvem com GPU (ex.: Colab, SageMaker, etc.).
 
-
 ## Configuração do ambiente (exemplos)
 
 Você pode usar conda ou venv. Abaixo, exemplos em PowerShell.
